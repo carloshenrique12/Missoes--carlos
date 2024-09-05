@@ -26,21 +26,21 @@ const perguntas = [
                 afirmacao: "Com o avanço dos algoritmos de IA, muitas decisões empresariais poderão ser tomadas de forma autônoma, reduzindo a necessidade de intervenção direta dos gestores. "
      },
             {
-                texto: "A IA servirá como uma ferramenta de apoio à decisão, oferecendo recomendações baseadas em dados.",
+                texto: "B) A IA servirá como uma ferramenta de apoio à decisão, oferecendo recomendações baseadas em dados.",
                 afirmacao: "Em vez de substituir completamente o julgamento humano, a IA fornecerá recomendações e insights para ajudar os gestores a tomar decisões mais informadas."
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "O que se espera sobre a capacidade das IAs para entender e gerar linguagem natural no futuro? ",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "A) As IAs irão alcançar uma compreensão e geração de linguagem natural quase indistinguível da humana. ",
+                afirmacao: "Os avanços em IA estão se aproximando de capacidades de compreensão e geração de linguagem que podem ser muito similares às humanas. "
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "B) As IAs continuarão a lutar com nuances e contextos complexos da linguagem, mesmo com futuros avanços",
+                afirmacao: "Apesar dos avanços, desafios persistem em capturar completamente as sutilezas e o contexto da linguagem humana. "
             }
         ]
     },
